@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Background"
+    android:orientation="vertical"
+    tools:context="com.example.dhruvmittal.studentdelegatesapp.activity.LogInActivity">
+
+    <TextView
+        android:id="@+id/ViewReportTitleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="VIEW HISTORY"
+        android:textColor="@android:color/background_dark"
+        android:textSize="36sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+    <TextView
+        android:id="@+id/ViewHistoryText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Please select the survey ID for more details:"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15sp"
+        android:layout_marginBottom="20dp"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/feedBackHistoryRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </android.support.v7.widget.RecyclerView>
+</LinearLayout>

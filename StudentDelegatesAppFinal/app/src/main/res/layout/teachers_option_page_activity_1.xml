@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Background"
+    android:orientation="vertical"
+    tools:context="com.example.dhruvmittal.studentdelegatesapp.activity.LogInActivity">
+
+    <TextView
+        android:id="@+id/TeachersTitleText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="TEACHERS"
+        android:textColor="@android:color/background_dark"
+        android:textSize="36sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+    <TextView
+        android:id="@+id/TeachersQuestion1Label"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="@string/teacher_question_1_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="235dp"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"/>
+
+    <Spinner
+        android:id="@+id/SubjectSpinnerTeachersPage"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:spinnerMode="dropdown"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="30dp">
+    </Spinner>
+
+    <TextView
+        android:id="@+id/TeachersQuestion3Label"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="@string/teacher_question_3_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="235dp"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="15dp">
+
+        <CheckBox
+            android:id="@+id/TeachersAnswer2A"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="115dp"
+            android:text="Not useful"
+            />
+
+        <CheckBox
+            android:id="@+id/TeachersAnswer2B"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="Somewhat useful"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="15dp">
+
+        <CheckBox
+            android:id="@+id/TeachersAnswer2C"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="Useful"
+            android:layout_marginRight="140dp"/>
+
+        <CheckBox
+            android:id="@+id/TeachersAnswer2D"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="Very useful"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/TeachersQuestion2Label"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="5dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="@string/teacher_question_2_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="235dp"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="20dp">
+
+        <CheckBox
+            android:id="@+id/TeachersAnswer3A"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/teacher_answer_2a_text"
+            android:layout_marginRight="160dp"
+            />
+
+        <CheckBox
+            android:id="@+id/TeachersAnswer3B"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/teacher_answer_2b_text"
+            />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/TeachersNextPageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Next Page"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="95dp"
+            tools:layout_editor_absoluteY="396dp"
+            android:layout_marginRight="10dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/TeachersLogOutButton1"
+            android:layout_width="185dp"
+            android:layout_height="48dp"
+            android:text="Log Out"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="447dp" />
+
+        <Button
+            android:id="@+id/TeachersMenuButton1"
+            android:layout_width="185dp"
+            android:layout_height="wrap_content"
+            android:text="Menu"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="280dp"
+            tools:layout_editor_absoluteY="447dp"/>
+    </LinearLayout>
+
+</LinearLayout>

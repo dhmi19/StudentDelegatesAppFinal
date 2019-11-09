@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable name="activity" type="com.example.dhruvmittal.studentdelegatesapp.activity.CanteenOptionPageActivity1"/>
+        <variable
+            name="feedback"
+            type="com.example.dhruvmittal.studentdelegatesapp.model.Feedback"/>
+    </data>
+
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/Background"
+    android:background="@color/Background"
+    android:orientation="vertical"
+    tools:context="com.example.dhruvmittal.studentdelegatesapp.activity.LogInActivity">
+
+    <TextView
+        android:id="@+id/CanteenTitleText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="CANTEEN"
+        android:textColor="@android:color/background_dark"
+        android:textSize="36sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+    <TextView
+        android:id="@+id/CanteenQuestion1Label"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="@string/canteen_question_1_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="235dp"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="15dp">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:id="@+id/CanteenAnswer1A"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="60dp"
+            android:text="@string/canteen_answer_1a_text"
+            android:onClick="@{()->activity.onCheckboxQ1Checked()}"
+            />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:id="@+id/CanteenAnswer1B"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/canteen_answer_1b_text"
+            android:onClick="@{()->activity.onCheckboxQ1Checked()}"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="15dp">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/CanteenAnswer1C"
+            android:text="@string/canteen_answer_1c_text"
+            android:layout_marginRight="75dp"
+            android:onClick="@{()->activity.onCheckboxQ1Checked()}"
+            />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/CanteenAnswer1D"
+            android:text="@string/canteen_answer_1d_text"
+            android:onClick="@{()->activity.onCheckboxQ1Checked()}"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/CanteenQuestion2Label"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="@string/canteen_question_2_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="235dp"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="15dp">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/CanteenAnswer2A"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="59dp"
+            android:text="@string/canteen_answer_2a_text"
+            android:onClick="@{()->activity.onCheckboxQ2Checked()}"
+            />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/CanteenAnswer2B"
+            android:layout_marginBottom="5dp"
+            android:text="@string/canteen_answer_2b_text"
+            android:onClick="@{()->activity.onCheckboxQ2Checked()}"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="20dp">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/CanteenAnswer2C"
+            android:text="@string/canteen_answer_2c_text"
+            android:layout_marginRight="68dp"
+            android:onClick="@{()->activity.onCheckboxQ2Checked()}"
+            />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/CanteenAnswer2D"
+            android:layout_marginBottom="5dp"
+            android:text="@string/canteen_answer_2d_text"
+            android:onClick="@{()->activity.onCheckboxQ2Checked()}"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/CanteenQuestion3Label"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="@string/canteen_question_3_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="235dp"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="20dp">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/CanteenAnswer3A"
+            android:layout_marginRight="125dp"
+            android:text="@string/canteen_answer_3a_text"
+            android:onClick="@{()->activity.onCheckboxQ3Checked()}"
+            />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/CanteenAnswer3B"
+            android:layout_marginBottom="5dp"
+            android:text="@string/canteen_answer_3b_text"
+            android:onClick="@{()->activity.onCheckboxQ3Checked()}"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginBottom="25dp">
+
+        <Button
+            android:id="@+id/CanteenNextPageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Next Page"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="95dp"
+            tools:layout_editor_absoluteY="396dp"
+            android:layout_marginRight="10dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/CanteenLogOutButton1"
+            android:layout_width="185dp"
+            android:layout_height="48dp"
+            android:text="Log Out"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="447dp" />
+
+        <Button
+            android:id="@+id/CanteenMenuButton1"
+            android:layout_width="185dp"
+            android:layout_height="wrap_content"
+            android:text="Menu"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="280dp"
+            tools:layout_editor_absoluteY="447dp"/>
+    </LinearLayout>
+
+</LinearLayout>
+</layout>

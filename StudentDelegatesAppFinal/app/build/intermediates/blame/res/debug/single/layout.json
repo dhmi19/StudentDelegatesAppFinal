@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/canteen_option_page_activity_1.xml",
+        "source": "/Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/res/layout/canteen_option_page_activity_1.xml"
+    },
+    {
+        "merged": "/Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/log_in_activity.xml",
+        "source": "/Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/res/layout/log_in_activity.xml"
+    },
+    {
+        "merged": "/Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/menu_activitity.xml",
+        "source": "/Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/res/layout/menu_activitity.xml"
+    }
+]

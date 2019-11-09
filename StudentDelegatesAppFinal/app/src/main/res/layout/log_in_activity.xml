@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable name="user" type="com.example.dhruvmittal.studentdelegatesapp.model.User"/>
+        <variable name="activity" type="com.example.dhruvmittal.studentdelegatesapp.activity.LogInActivity"/>
+    </data>
+
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Background"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.example.dhruvmittal.studentdelegatesapp.activity.LogInActivity">
+
+    <TextView
+        android:id="@+id/titleLogIn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="15dp"
+        android:text="LOG IN"
+        android:textColor="@android:color/background_dark"
+        android:textSize="36sp"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:text="@string/logIn_text_1"
+        android:textColor="@color/colorAccent"
+        android:typeface="normal"
+        android:textAlignment="center"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:hint="Username [4 letters then 2 numbers]"
+                    android:id="@+id/userNameLogIn"
+                    android:text="@={user.username}"
+                    android:maxLength="6"/>
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/passwordLogIn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:hint="Password"
+                    android:text="@={user.password}"
+                    android:layout_marginBottom="20dp"/>
+            </android.support.design.widget.TextInputLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Login"
+                    android:id="@+id/btnLogin"
+                    android:layout_weight="1"
+                    android:layout_marginRight="20dp"
+                    android:onClick="@{()->activity.onLoginButtonClick(user)}"/>
+
+                <Button
+                    android:id="@+id/btnSignUp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="0dp"
+                    android:text="SIGN UP"
+                    android:layout_weight="1"
+                    android:visibility="visible"
+                    android:layout_marginRight="20dp"
+                    android:onClick="@{()->activity.openSignUpPage()}"/>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+</LinearLayout>
+</layout>

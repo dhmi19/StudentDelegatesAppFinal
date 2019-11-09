@@ -1,0 +1,4 @@
+#Tue Feb 05 10:34:49 ICT 2019
+base.0=/Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

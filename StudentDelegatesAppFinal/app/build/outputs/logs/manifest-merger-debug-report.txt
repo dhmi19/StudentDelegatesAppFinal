@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:2:1-160:12
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:2:1-160:12
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:2:1-160:12
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:2:1-160:12
+MERGED from [com.android.databinding:adapters:3.1.4] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/36e79734fd34fac40eed5f2f1fa96b51/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.4] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/640367eb5395bacd66e7042f22782caa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bc4351ccd4eb5f4740589c1bd789ee16/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9449db9fe00b24a4f8e241a3177b5e32/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:28.0.0-beta01] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-beta01.aar/a64dbb5144e952f047e8bbfcc20e25ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/14cb21517bc1b874b009974b86e0765a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4b5d0c3cb52eed4dea4ede0647d0c3f8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/03b7fa4185e85e53d5eb4586cc1d694f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/813f92574bf26a56ef2429ebbbd0c25e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab3ff9d1e24c35b23c1d2853117bc94/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8b51492105cfc588110580c3742a83aa/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96263c39994ad1a3cc18581a27062485/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/91cba6df73c1b47ea3afa1dd43f703bb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b0d76e5f2748c7f31763768c4031fed/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3df83b1c0579ac642b68ea18ce7bc842/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a4aa4c9d210a35aa10def1ada1cbd605/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/15edcbfdccc60e937ab89b649f49393d/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:2:1-160:12
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:2:1-160:12
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:2:1-160:12
+	package
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:3:5-58
+		INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:2:1-160:12
+		INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:2:1-160:12
+		INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:10:5-158:19
+MERGED from [com.android.support:design:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bc4351ccd4eb5f4740589c1bd789ee16/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bc4351ccd4eb5f4740589c1bd789ee16/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9449db9fe00b24a4f8e241a3177b5e32/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9449db9fe00b24a4f8e241a3177b5e32/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/14cb21517bc1b874b009974b86e0765a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/14cb21517bc1b874b009974b86e0765a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4b5d0c3cb52eed4dea4ede0647d0c3f8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4b5d0c3cb52eed4dea4ede0647d0c3f8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/03b7fa4185e85e53d5eb4586cc1d694f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/03b7fa4185e85e53d5eb4586cc1d694f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/813f92574bf26a56ef2429ebbbd0c25e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/813f92574bf26a56ef2429ebbbd0c25e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab3ff9d1e24c35b23c1d2853117bc94/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab3ff9d1e24c35b23c1d2853117bc94/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8b51492105cfc588110580c3742a83aa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8b51492105cfc588110580c3742a83aa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96263c39994ad1a3cc18581a27062485/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96263c39994ad1a3cc18581a27062485/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/91cba6df73c1b47ea3afa1dd43f703bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/91cba6df73c1b47ea3afa1dd43f703bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b0d76e5f2748c7f31763768c4031fed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b0d76e5f2748c7f31763768c4031fed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3df83b1c0579ac642b68ea18ce7bc842/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3df83b1c0579ac642b68ea18ce7bc842/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/15edcbfdccc60e937ab89b649f49393d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/15edcbfdccc60e937ab89b649f49393d/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.LogInActivity
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:17:9-24:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:17:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.UpdateAccountActivity
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:25:9-32:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:25:19-65
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.SignUpActivity
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:33:9-40:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:33:19-58
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.MenuActivity
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:41:9-48:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:41:19-56
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.CanteenOptionPageActivity1
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:49:9-56:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:49:19-70
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.CanteenOptionPageActivity2
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:57:9-64:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:57:19-70
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.SubjectOptionPageActivity1
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:65:9-72:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:65:19-70
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.SubjectOptionPageActivity2
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:73:9-80:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:73:19-70
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.ECAOptionPageActivity1
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:81:9-88:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:81:19-66
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.ECAOptionPageActivity2
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:89:9-96:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:89:19-66
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.StudyPeriodOptionPageActivity1
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:97:9-104:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:97:19-74
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.StudyPeriodOptionPageActivity2
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:105:9-112:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:105:19-74
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.TeacherOptionPageActivity1
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:113:9-120:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:114:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:113:19-70
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.TeacherOptionPageActivity2
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:121:9-128:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:122:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:121:19-70
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.ViewReportActivity
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:129:9-136:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:130:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:129:19-62
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.ViewHistoryActivity
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:137:9-144:20
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:138:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:137:19-63
+activity#com.example.dhruvmittal.studentdelegatesapp.activity.PieChartActivity
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:145:9-146:61
+	android:screenOrientation
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:146:13-49
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:145:19-60
+provider#com.example.dhruvmittal.studentdelegatesapp.util.GenericFileProvider
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:148:9-156:20
+	android:grantUriPermissions
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:152:13-47
+	android:authorities
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:150:13-103
+	android:exported
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:151:13-37
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:149:13-53
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:153:13-155:57
+	android:resource
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:155:17-55
+	android:name
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml:154:17-67
+uses-sdk
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.4] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/36e79734fd34fac40eed5f2f1fa96b51/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.4] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/36e79734fd34fac40eed5f2f1fa96b51/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/640367eb5395bacd66e7042f22782caa/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/640367eb5395bacd66e7042f22782caa/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bc4351ccd4eb5f4740589c1bd789ee16/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bc4351ccd4eb5f4740589c1bd789ee16/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9449db9fe00b24a4f8e241a3177b5e32/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9449db9fe00b24a4f8e241a3177b5e32/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:28.0.0-beta01] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-beta01.aar/a64dbb5144e952f047e8bbfcc20e25ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-beta01] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-beta01.aar/a64dbb5144e952f047e8bbfcc20e25ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/14cb21517bc1b874b009974b86e0765a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/14cb21517bc1b874b009974b86e0765a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4b5d0c3cb52eed4dea4ede0647d0c3f8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4b5d0c3cb52eed4dea4ede0647d0c3f8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/03b7fa4185e85e53d5eb4586cc1d694f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/03b7fa4185e85e53d5eb4586cc1d694f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/813f92574bf26a56ef2429ebbbd0c25e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/813f92574bf26a56ef2429ebbbd0c25e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab3ff9d1e24c35b23c1d2853117bc94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab3ff9d1e24c35b23c1d2853117bc94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8b51492105cfc588110580c3742a83aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8b51492105cfc588110580c3742a83aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96263c39994ad1a3cc18581a27062485/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96263c39994ad1a3cc18581a27062485/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/91cba6df73c1b47ea3afa1dd43f703bb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/91cba6df73c1b47ea3afa1dd43f703bb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b0d76e5f2748c7f31763768c4031fed/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b0d76e5f2748c7f31763768c4031fed/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3df83b1c0579ac642b68ea18ce7bc842/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3df83b1c0579ac642b68ea18ce7bc842/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a4aa4c9d210a35aa10def1ada1cbd605/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a4aa4c9d210a35aa10def1ada1cbd605/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/15edcbfdccc60e937ab89b649f49393d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/15edcbfdccc60e937ab89b649f49393d/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bc4351ccd4eb5f4740589c1bd789ee16/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Dhruvmittal/Downloads/StudentDelegatesAppFinal/StudentDelegatesAppFinal/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bc4351ccd4eb5f4740589c1bd789ee16/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9449db9fe00b24a4f8e241a3177b5e32/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9449db9fe00b24a4f8e241a3177b5e32/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/14cb21517bc1b874b009974b86e0765a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/14cb21517bc1b874b009974b86e0765a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4b5d0c3cb52eed4dea4ede0647d0c3f8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4b5d0c3cb52eed4dea4ede0647d0c3f8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/03b7fa4185e85e53d5eb4586cc1d694f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/03b7fa4185e85e53d5eb4586cc1d694f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/813f92574bf26a56ef2429ebbbd0c25e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/813f92574bf26a56ef2429ebbbd0c25e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab3ff9d1e24c35b23c1d2853117bc94/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab3ff9d1e24c35b23c1d2853117bc94/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8b51492105cfc588110580c3742a83aa/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8b51492105cfc588110580c3742a83aa/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96263c39994ad1a3cc18581a27062485/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/96263c39994ad1a3cc18581a27062485/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/91cba6df73c1b47ea3afa1dd43f703bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/91cba6df73c1b47ea3afa1dd43f703bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b0d76e5f2748c7f31763768c4031fed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b0d76e5f2748c7f31763768c4031fed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3df83b1c0579ac642b68ea18ce7bc842/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3df83b1c0579ac642b68ea18ce7bc842/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bc4351ccd4eb5f4740589c1bd789ee16/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/Dhruvmittal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/bc4351ccd4eb5f4740589c1bd789ee16/AndroidManifest.xml:27:13-51

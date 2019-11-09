@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Background"
+    android:orientation="vertical"
+    tools:context="com.example.dhruvmittal.studentdelegatesapp.activity.LogInActivity">
+
+    <TextView
+        android:id="@+id/ViewReportTitleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="VIEW REPORT"
+        android:textColor="@android:color/background_dark"
+        android:textSize="36sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+    <TextView
+        android:id="@+id/ViewReportText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Please select the criteria for the report:"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15sp"
+        android:layout_marginBottom="20dp"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+
+    <TextView
+        android:id="@+id/ViewReportOption1Label"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="@string/view_report_option_1_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="235dp"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Username :"/>
+
+            <TextView android:id="@+id/usernameValueTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text=""
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/ViewReportOption2Label"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="@string/view_report_option_2_text"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="235dp"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/view_report_option_2a_text"
+            android:layout_marginRight="10dp"
+            android:id="@+id/ViewReportCanteenButton"
+            android:background="@color/white"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/view_report_option_2b_text"
+            android:layout_marginRight="10dp"
+            android:id="@+id/ViewReportSubjectButton"
+            android:background="@color/white"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/view_report_option_2c_text"
+            android:id="@+id/ViewReportECAButton"
+            android:background="@color/white"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp">
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/view_report_option_2d_text"
+            android:layout_marginRight="10dp"
+            android:id="@+id/ViewReportTeachersButton"
+            android:background="@color/white"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/view_report_option_2e_text"
+            android:id="@+id/ViewReportSudyPeriodButton"
+            android:background="@color/white"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/ViewReportLogOutButton"
+            android:layout_width="185dp"
+            android:layout_height="48dp"
+            android:text="Log Out"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="447dp" />
+
+        <Button
+            android:id="@+id/ViewReportMenuButton"
+            android:layout_width="185dp"
+            android:layout_height="wrap_content"
+            android:text="Menu"
+            android:textAlignment="center"
+            tools:layout_editor_absoluteX="280dp"
+            tools:layout_editor_absoluteY="447dp"/>
+    </LinearLayout>
+
+</LinearLayout>
